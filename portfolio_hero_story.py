@@ -1,5 +1,8 @@
+# Print a description of the story and ask for player info
+
 print("The Princess of the Earth has been kidnapped, our hero has started his journey to rescue the princess")
 hero = input("What is the name of our hero?\n")
+
 print(f"{hero} arrives at the entrance of the cursed forest...")
 
 forest = input ("if you wish to enter the forest type Yes \n if you want to go back type No \n")
